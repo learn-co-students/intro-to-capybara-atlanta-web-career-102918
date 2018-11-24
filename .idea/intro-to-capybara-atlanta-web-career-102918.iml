@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="ModuleRunConfigurationManager">
+    <shared />
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.16.6, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="childprocess (v0.9.0, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="colorize (v0.8.1, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="crack (v0.4.3, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.3, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jasmine (v2.6.0, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jasmine-core (v2.99.0, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="learn-config (v1.0.77, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="learn-generate (v1.0.16, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="learn-hello (v1.0.1, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="learn-status (v1.0.1, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="learn-submit (v1.3.1, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="learn_linter (v1.7.3, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mini_portile2 (v2.3.0, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.13.1, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multipart-post (v2.0.0, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="netrc (v0.11.0, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.8.2, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="oj (v2.18.5, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="phantomjs (v2.1.1.0, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rainbow (v1.99.2, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec (v3.7.0, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-core (v3.7.1, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-expectations (v3.7.0, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-mocks (v3.7.0, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-support (v3.7.1, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="safe_yaml (v1.0.4, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v2.52.0, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thor (v0.20.0, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tilt (v2.0.8, RVM: ruby-2.3.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="webrick (v1.3.1, RVM: ruby-2.3.3) [gem]" level="application" />
+  </component>
+</module>

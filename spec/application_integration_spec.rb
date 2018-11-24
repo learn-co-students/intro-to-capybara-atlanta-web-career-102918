@@ -8,6 +8,13 @@ describe "GET '/' - Greeting Form" do
   end
 
   # New test
+  describe "GET '/' - Greeting Form" do
+    it 'welcomes the user' do
+      visit '/'
+      expect(page.body).to include("Welcome!")
+    end
+  end
+
   it 'has a greeting form with a user_name field' do
     visit '/'
 
